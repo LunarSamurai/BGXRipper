@@ -1,0 +1,1 @@
+python3 main.py -f config.txt --connection_timeout 5 --retry_delay 1 --scan_timeout 10 -v
